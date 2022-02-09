@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2021 xdroid, xyzprjkt
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- xd. version -->
+    <string name="xd_revision">إصدار إكس درويد</string>
+
+    <!-- AOSP Revision -->
+    <string name="aosp_revision">إصدار الأندرويد</string>
+
+    <!-- xd. Placeholder -->
+    <string name="xd_title_placeholder">loremipsum</string>
+    <string name="xd_summary_placeholder">loremipsum</string>
+
+    <!-- xd. fake toolbar -->
+    <string name="xd_firmware_info">معلومات النظام</string>
+    <string name="xd_hardware_info">معلومات الهاردوير</string>
+    <string name="xd_about_phone">حول الهاتف</string>
+    <string name="xd_about">حول إكس درويد</string>
+
+    <!-- xd. Dashboard -->
+    <string name="xd_dashboard_greet_default">عما تبحث؟</string>
+    <string name="xd_dashboard_greet1">عما تبحث؟</string>
+    <string name="xd_dashboard_greet2">تبحث عن شيء؟</string>
+    <string name="xd_dashboard_greet3">بحاجة لتغيير أي شيء؟</string>
+    <string name="xd_dashboard_greet4">البحث عن شيء؟</string>
+    <string name="xd_dashboard_greet5">تحتاج إلى أي شيء؟</string>
+    <string name="xd_dashboard_greet6">لنفعل شيئًا رائعًا</string>
+    <string name="xd_dashboard_greet7">هل لديك شيء لتغييره؟</string>
+    <string name="xd_dashboard_greet8">قل مرحبا للعالم؟</string>
+    <string name="xd_dashboard_greet9">أهلاً، مرحبًا بكم في مينملست</string>
+    <string name="xd_dashboard_greet10">عدل جهازك هنا!</string>
+    <string name="xd_dashboard_greet11">حاول ان تجد شيئا؟</string>
+    <string name="xd_dashboard_greet12">مرحبًا ، ها أنا أستخدم إكس درويد</string>
+    <string name="xd_dashboard_device">حول الهاتف</string>
+    <string name="xd_dashboard_account">الحسابات</string>
+    <string name="xd_dashboard_network">الإنترنت</string>
+    <string name="xd_dashboard_conectivity">الاتصال</string>    
+    <string name="xd_dashboard_display">الشاشة</string>
+    <string name="xd_dashboard_battery">البطارية</string>
+    <string name="xd_dashboard_sound">الصوت</string>
+    <string name="xd_dashboard_apps">التطبيقات</string>
+    <string name="xd_dashboard_notif">الإشعارات</string>
+    <string name="xd_dashboard_storage">التخزين</string>
+    <string name="xd_dashboard_privacy">الخصوصية</string>    
+    <string name="xd_dashboard_location">الموقع</string>
+    <string name="xd_dashboard_security">الحماية</string>
+    <string name="xd_dashboard_accessibility">إمكانية الوصول</string>
+    <string name="xd_dashboard_system">آخر</string>    
+    <string name="xd_dashboard_support">الدعم</string>
+
+    <!-- xd. mnmlist. -->
+    <string name="xd_dashboard_xzrypr">مينملست</string>
+    <string name="xd_dashboard_xzrypr_summary">احصل على التخصيص المفضل لديك هنا</string>
+
+    <!-- xd. Preferences -->
+    <string name="xd_firmware_info_summary">معلومات حول النظام في هذا الهاتف</string>
+    <string name="xd_hardware_info_summary">معلومات حول الهاردوير في هذا الهاتف</string>
+    <string name="xd_device_owner">اسم المالك</string>
+    <string name="xd_legal_information_summary">المعلومات القانونية للترخيص</string>
+    <string name="xd_regulatory_summary">معلومات تنظيمية</string>
+    <string name="xd_wifi_saved">الشبكة المحفوظة</string>
+    <string name="blurs_effect">تأثير الطمس (البلور)</string>
+    <string name="dark_ui_mode_summary">تمكين "المظهر الداكن" في هذه الأجهزة</string>
+    <string name="xd_updater">تحديثات النظام</string>
+    <string name="xd_updater_summary">انقر هنا للتحقق من آخر تحديث للنظام</string>
+
+    <!-- xd. Preferences Category -->
+    <string name="xd_about_phone_owner_cat">معلومات المالك</string>
+    <string name="xd_about_phone_information_cat">معلومات الهاتف</string>
+    <string name="xd_about_phone_legalregulator_cat">المعلومات القانونية والتنظيمية</string>
+    <string name="xd_about_phone_network_cat">معلومات الشبكة</string>    
+    <string name="xd_firmware_version_cat">معلومات النظام</string>
+    <string name="xd_firmware_security_cat">معلومات الهاردوير</string>
+    <string name="xd_general_cat">عام</string>
+    <string name="xd_category_ui">واجهات المستخدم</string>    
+    <string name="xd_category_screen">الشاشة</string>
+    <string name="xd_category_density">الكثافة</string>
+    <string name="xd_category_gesture">إيماءات الشاشة</string>
+    <string name="xd_category_brightness">السطوع</string>
+    <string name="xd_about_core_team_cat">مطور الأساسي</string>
+    <string name="xd_about_contributor_cat">مساهم</string>
+
+    <!-- xd. About -->
+    <string name="xd_about_desc">إكس درويد عبارة عن روم معدل مبني علي "ايه اوه إس بي" والذي يركز علي واجهة مستخدم بسيطة مع الحفاظ علي السلاسة والتحسينات التي يوفره "ايه اوه إس بي". </string>
+    <string name="xd_about_core_xyzuan">جودي يوانتورو</string>
+    <string name="xd_about_core_xyzuan_role">المؤسس والمطور الرئيسي ومصمم واجهة المستخدم</string>
+    <string name="xd_about_core_friction">فيرمان يانوار</string>
+    <string name="xd_about_core_friction_role">مصمم محسن واجهة المستخدم</string>
+    <string name="xd_about_contributor_rdclxvi">رويان أيه كيه</string>
+    <string name="xd_about_contributor_rdclxvi_role">مترجم اندونيسي</string>
+    <string name="xd_about_contributor_iszon">ايسزون</string>
+    <string name="xd_about_contributor_iszon_role">مترجم بولندي</string>
+    <string name="xd_about_contributor_vi">log1cs</string>
+    <string name="xd_about_contributor_vi_summary">مترجم فيتنامي</string>
+
+    <!-- xd. About Phone -->
+    <string name="xd_device_name">إسم الجهاز</string>
+    <string name="xd_device_name_summary">غير معروف</string>
+    <string name="xd_chipset_type">المعالج</string>
+    <string name="xd_chipset_type_summary">غير معروف</string>
+    <string name="xd_gpu">معالج الرسومات</string>
+    <string name="xd_gpu_summary">غير معروف</string>
+    <string name="xd_camera_mp">الكاميرا</string>
+    <string name="xd_camera_mp_summary">غير معروف</string>
+    <string name="xd_screen_type">الشاشة</string>
+    <string name="xd_screen_type_summary">غير معروف</string>
+
+    <!-- xd. Build Status -->
+    <string name="xd_build_status">أجهزتك غير مدعومة رسميًا!</string>
+    <string name="xd_build_maintained_summary">Maintained by %s</string>
+    <string name="xd_build_unmaintained_summary">This build are not maintained officially</string>
+
+</resources>
