@@ -122,7 +122,7 @@
 
     <!-- xd. Build Status -->
     <string name="xd_build_status">أجهزتك غير مدعومة رسميًا!</string>
-    <string name="xd_build_maintained_summary">Maintained by %s</string>
-    <string name="xd_build_unmaintained_summary">This build are not maintained officially</string>
+    <string name="xd_build_maintained_summary">مبني بواسطة %s</string>
+    <string name="xd_build_unmaintained_summary">هذا الاصدار ليس مبني بواسطة مطورينا الرسميين</string>
 
 </resources>
